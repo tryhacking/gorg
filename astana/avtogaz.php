@@ -19,41 +19,18 @@
 .card {background: #FFF none repeat scroll 0% 0%; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); margin-bottom: 30px; }
 </style>
 <section id="avto-utp">
-	
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
 			<div class="card-w" style="padding: 0px 25px 0px;">
-		<h1>Газовые заправки в <?=$ccityr?></h1>
-		<p>Заправка авто газом по лучшим ценам в <?=$ccityr?></p>
-		<p>Мы работаем круглосуточно, без перерывов и выходных!</p>
-		<p class="bg-danger"><i class="fa fa-map-marker" aria-hidden="true"></i> Выберите регион для просмотра карты газовых заправок</p>
-	</div>
+				<h1>Газовые заправки в <?=$ccityr?></h1>
+				<p>Заправка авто газом по лучшим ценам в <?=$ccityr?></p>
+				<p>Мы работаем круглосуточно, без перерывов и выходных!</p>
+				<p>Также вы можете скачать список заправок по <a href="/azgs.docx">этой ссылке</a></p>
+			</div>	
+
 		</div>
 	</div>
-	<ul class="nav nav-tabs nav-justified">
-<!--     <li ><a data-toggle="tab" href="#home">Все цены</a></li> -->
-    <li class="active"><a data-toggle="tab" href="#menu1">Астана</a></li>
-    <li><a data-toggle="tab" href="#menu2">Караганда</a></li>
-    <li><a data-toggle="tab" href="#menu3">Павлодар</a></li>
-    <li><a data-toggle="tab" href="#menu4">Усть-Каменогорск</a></li>
-  </ul>
-
-  <div class="tab-content">
-
-    <div id="menu1" class="tab-pane fade in active">
-     <div class="map-container"> <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Af6a00c9c951f360ec4ac34bdba46ec13f563e767c66103b3407fab683837e29e&amp;width=100%&amp;height=544&amp;lang=ru_RU&amp;scroll=true"></script></div>
-    </div>
-    <div id="menu2" class="tab-pane fade">
-  <div class="map-container"> <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Af6a00c9c951f360ec4ac34bdba46ec13f563e767c66103b3407fab683837e29e&amp;width=100%&amp;height=544&amp;lang=ru_RU&amp;scroll=true"></script></div>
-    </div>
-    <div id="menu3" class="tab-pane fade">
- <div class="map-container"> <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Af6a00c9c951f360ec4ac34bdba46ec13f563e767c66103b3407fab683837e29e&amp;width=100%&amp;height=544&amp;lang=ru_RU&amp;scroll=true"></script></div>
-    </div>
-     <div id="menu4" class="tab-pane fade">
- <div class="map-container"> <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Af6a00c9c951f360ec4ac34bdba46ec13f563e767c66103b3407fab683837e29e&amp;width=100%&amp;height=544&amp;lang=ru_RU&amp;scroll=true"></script></div>
-    </div>
-</div>
-    </div>
+	<div class=" tab-content map-container"> <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Af6a00c9c951f360ec4ac34bdba46ec13f563e767c66103b3407fab683837e29e&amp;width=100%&amp;height=544&amp;lang=ru_RU&amp;scroll=true"></script></div>
 </section>
 
 <section id="why-we__avtogaz">
