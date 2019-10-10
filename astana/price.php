@@ -25,7 +25,7 @@
         </div>  
         <div class="card_text">
             На заправках - 73 тг/л <br> 
-            На базе - 71 тг/л <br>
+            На базе - 73 тг/л <br>
         <a href="avtogaz" class="btn btn-primary">Найти ближаюшую АЗГС на карте</a>
         </div>        
       </div>
@@ -35,12 +35,15 @@
         <div class="bg-servise bg-gas" ></div>
         <div class="card_title" >
           <h3 style="margin: 0;">Цена на газ в баллонах</h3>
-        </div>      
+        </div>     
         <div class="card_text">
-          <p>10 кг - 1500 тг</p>
+          <p>8 кг - 100 тг</p>
+        </div>   
+        <div class="card_text">
+          <p>10 кг - 1300 тг</p>
         </div>  
         <div class="card_text">
-          <p>20 кг - 3000 тг</p>
+          <p>20 кг - 2600 тг</p>
         </div>
         <a href="dostavka-gaza" class="btn btn-primary">Заказать доставку газа</a>
       </div>
