@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="148mm" height="210mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 14800 21000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:none}
+    .fil0 {fill:#E31E24;fill-rule:nonzero}
+    .fil3 {fill:url(#id3)}
+    .fil4 {fill:url(#id4)}
+    .fil1 {fill:url(#id5);fill-rule:nonzero}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M4326 5967l6148 0 0 12862 -6148 0 0 -12862z"/>
+    </clipPath>
+     <clipPath id="id1">
+      <path d="M4326 5967l6148 0 0 12862 -6148 0 0 -12862z"/>
+     </clipPath>
+     <clipPath id="id2">
+      <path d="M4326 5967l6148 0 0 12862 -6148 0 0 -12862z"/>
+     </clipPath>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="4468" y1="8877" x2="10336" y2="8877">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6B6B6B"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#DADADA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:gray"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="4468" y1="15050" x2="10336" y2="15050">
+   <stop offset="0" style="stop-opacity:1; stop-color:#13C8D0"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#B2F7FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#53C1DE"/>
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="4148" y1="4102" x2="10652" y2="4102">
+   <stop offset="0" style="stop-opacity:1; stop-color:#AF2A21"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#E43524"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B80000"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_578258676656">
+   <path class="fil0" d="M4210 19819c-22,0 -43,-5 -62,-13l0 273c0,205 178,371 389,371l5727 0c211,0 388,-166 388,-371l0 -273c-20,9 -41,13 -62,13l-6379 0z"/>
+   <path class="fil0" d="M4210 18891c-22,0 -43,-5 -62,-13l0 249c20,-9 41,-13 62,-13l6379 0c22,0 43,5 62,13l0 -249c-20,9 -41,13 -62,13l-6379 0z"/>
+   <path class="fil1" d="M10590 4894c22,0 43,5 62,13l0 -512c0,-719 -520,-1054 -973,-1094 -31,-3 -64,-4 -94,-4l-4473 0c-6,0 -17,1 -23,1 -466,17 -942,652 -942,1097l0 512c20,-9 41,-13 62,-13l6379 0z"/>
+   <path class="fil0" d="M10590 5599l-6379 0c-22,0 -43,-5 -62,-13l0 12612c20,-9 41,-13 62,-13l6379 0c22,0 43,5 62,13l0 -12612c-20,9 -41,13 -62,13z"/>
+   <path class="fil0" d="M10590 5562c22,0 43,-5 62,-13 86,-38 148,-150 148,-283l0 -38c0,-133 -62,-246 -148,-283 -20,-9 -41,-13 -62,-13l-6379 0c-22,0 -43,5 -62,13 -86,38 -148,150 -148,283l0 38c0,133 62,246 148,283 20,9 41,13 62,13l6379 0z"/>
+   <path class="fil0" d="M4210 19188c-22,0 -43,5 -62,13 -86,38 -148,150 -148,283l0 38c0,133 62,246 148,283 20,9 41,13 62,13l6379 0c22,0 43,-5 62,-13 86,-38 148,-150 148,-283l0 -38c0,-133 -62,-246 -148,-283 -20,-9 -41,-13 -62,-13l-6379 0z"/>
+   <path class="fil0" d="M4210 18259c-22,0 -43,5 -62,13 -86,37 -148,150 -148,283l0 38c0,133 62,246 148,283 20,9 41,13 62,13l6379 0c22,0 43,-5 62,-13 86,-37 148,-150 148,-283l0 -38c0,-133 -62,-246 -148,-283 -20,-9 -41,-13 -62,-13l-6379 0z"/>
+   <path class="fil0" d="M8457 2887c-315,-33 -670,-51 -1047,-51 -351,0 -683,16 -981,45 -687,66 -1190,209 -1310,364 7,0 13,15 20,15l4473 0c30,0 60,-17 91,-15 -111,-152 -588,-291 -1246,-359z"/>
+   <path class="fil0" d="M8121 2295l-351 0 0 -223 -702 0 0 223 -351 0c-194,0 -351,158 -351,353 0,57 14,111 38,159 298,-29 630,-45 981,-45 377,0 733,19 1047,51 26,-49 41,-105 41,-165 0,-195 -157,-353 -351,-353z"/>
+   <path class="fil0" d="M7420 1946c-75,0 -135,-61 -135,-136 0,-75 61,-136 135,-136 75,0 135,61 135,136 0,75 -61,136 -135,136zm396 -394l-795 0c-97,0 -176,101 -176,227l0 29c0,125 79,227 176,227l795 0c97,0 176,-101 176,-227l0 -29c0,-125 -79,-227 -176,-227z"/>
+   <path class="fil0" d="M7585 550l-333 0c-86,0 -158,37 -179,149l690 0c-20,-111 -92,-149 -179,-149z"/>
+   <path class="fil0" d="M7998 736l-1135 0c-85,0 -166,32 -166,94l0 220c0,62 81,131 166,131l204 0 0 334 702 0 0 -334 229 0c85,0 141,-69 141,-131l0 -220c0,-62 -56,-94 -141,-94z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id0)">
+    <g id="_578258678704">
+    </g>
+    <g style="clip-path:url(#id1)">
+     <image x="662" y="5629" width="13477" height="13538" xlink:href="2 баллон_Images\2 баллон_ImgID1.png"/>
+    </g>
+    <g style="clip-path:url(#id2)">
+    </g>
+   </g>
+   <polygon class="fil2" points="4326,5967 10474,5967 10474,18829 4326,18829 "/>
+   <polygon class="fil3" points="4468,11430 10336,11430 10336,6324 4468,6324 "/>
+   <polygon class="fil4" points="4468,18691 10336,18691 10336,11410 4468,11410 "/>
+  </g>
+ </g>
+</svg>

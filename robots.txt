@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /?                # все параметры запроса на главной
+Allow: /*/*.js         
+Allow: /*/*.css             
+Allow: /*/*.jpg             
+Allow: /*/*.png             
+Host: https://gorgaz2050.kz
+
+Sitemap: https://gorgaz2050.kz/sitemap.xml
+Sitemap:https://gorgaz2050.kz/sitemap.xml.gz
