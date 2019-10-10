@@ -30,7 +30,7 @@
 
 		</div>
 	</div>
-	<div class=" tab-content map-container"> <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Af6a00c9c951f360ec4ac34bdba46ec13f563e767c66103b3407fab683837e29e&amp;width=100%&amp;height=544&amp;lang=ru_RU&amp;scroll=true"></script></div>
+	<div class=" tab-content map-container"> <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A6d0c33761fb0c304c12d1d524664f957435c3c343c9ce1222442ecb9a1446b61&amp;width=100%25&amp;height=610&amp;lang=ru_RU&amp;scroll=true"></script></div>
 </section>
 
 <section id="why-we__avtogaz">
