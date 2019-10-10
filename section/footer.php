@@ -24,7 +24,7 @@
             <div class="smm"><a href="https://plus.google.com/b/100849713321869367498/100849713321869367498" target="_blank" rel="external nofollow"><div class="bg-s bg-gp"></div></a></div>
             <a href="tel:+77071810218">
             Call-центр работает с 8:00 до 18:00 ежедневно +7 (707) 181 02 18</a>
-            <br><a href="tel:+77762889919">Заказы по телефону +7 (776) 288 99 19</a>
+            <br><a href="tel:+77019606644">Заказы по телефону +7 (701) 960 66 44</a>
           </div>
           <div class="col-md-4 col-sm-12 col-xs-12">
             <h2>Выберите город</h2>

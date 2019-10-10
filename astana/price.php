@@ -38,9 +38,6 @@
           <p class="bg-danger">БЕСПЛАТНАЯ доставка с 9:00 до 17:00</p>
         </div>     
         <div class="card_text">
-          <p>8 кг - 1100 тг</p>
-        </div>   
-        <div class="card_text">
           <p>10 кг - 1300 тг</p>
         </div>  
         <div class="card_text">
