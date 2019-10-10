@@ -11,6 +11,7 @@
 <section>
   <div class="text-center"><h1>Контакты Горгаз - <?=$ccity ?> </h1>
   <p>Для просмора контактов выберите город</p></div>
+
 </section>
 
 

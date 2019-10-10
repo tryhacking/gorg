@@ -2,13 +2,22 @@
   <div class="row">
     <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
       <div class="card-w card-contact">
+        <p class="bg-danger" style="width: 300px;margin-left: auto;margin-right: auto;"><i class="fa fa-exclamation-circle" aria-hidden="true"></i>  Заказы принимаются до 22:00</p>
         <div class="row">
-          <div class="col-sm-6 col-xs-12"><div class="card__phone-icon"><a class="card__open-link" href="tel:+77172408001">8(7172) 408001 </a> </div></div>
+          <div class="col-sm-6 col-xs-12"><div class="card__phone-icon"><a class="card__open-link" href="tel:+77172407878">8(7172) 407878 </a> </div></div>
           <div class="col-sm-6 col-xs-12"><h4>Городской</h4></div>
         </div>
         <div class="row">
           <div class="col-sm-6 col-xs-12"><div class="card__phone-icon"><a class="card__open-link" href="tel:+77071810218">8 707 181 02 18</a> </div></div>
           <div class="col-sm-6 col-xs-12"><h4>Теле 2</h4></div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6 col-xs-12"><div class="card__phone-icon"><a class="card__open-link" href="tel:+77019606644">8 701 960 66 44</a> </div></div>
+          <div class="col-sm-6 col-xs-12"><h4>Activ</h4></div>
+        </div>
+         <div class="row">
+          <div class="col-sm-6 col-xs-12"><div class="card__phone-icon"><a class="card__open-link" href="tel:+77172407979">8(7172) 407979 </a> </div></div>
+          <div class="col-sm-6 col-xs-12"><h4>Городской</h4></div>
         </div>
       </div>
     </div>
